@@ -1,2 +1,2 @@
-# test.smpspt.image
+# test.smpspt.element
 testing for html
